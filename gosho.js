@@ -1,0 +1,1 @@
+var gosho = 10;
